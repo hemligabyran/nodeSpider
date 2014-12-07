@@ -1,4 +1,4 @@
 nodeSpider
 ==========
 
-Crawl an URL and search for a string
+Crawl an URL recursivly and search for a string
